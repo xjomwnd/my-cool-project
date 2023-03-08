@@ -8,6 +8,7 @@
   },
   "author": "Brother Nelson <nelsoned@byui.edu>",
   "dependencies": {
-    "parcel": "^2.8.3"
+    "parcel": "^2.8.3",
+    "prettier": "^2.8.4"
   }
 }
